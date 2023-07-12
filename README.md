@@ -5,7 +5,7 @@ Hello, I'm Zach!! I consider myself a passionate aspiring full-stack developer b
 
 
 ## Skills and Experiences 
-* 
+
 
 ## Hobbies 
 * Learning new programming languages and frameworks

@@ -1,16 +1,18 @@
-### Hi there 👋
 
-<!--
-**zzachari23/zzachari23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Zachariah Zachariah 
+Hello, I'm Zach!! I consdier myself a passionate aspiring full-stack developer based near the DC metropolitan area. With a solid foundation in backend programming languages like Java, Python, and Ruby, as well as expertise in relational database languages such as SQL, I am driven to excel in creating comprehensive solutions. While my focus lies in full-stack development, I also have experince in  the fields of data science and cybersecurity through college classes and internships. In fact, I am currently working towards obtaining my SEC+ certification to enhance my knowledge and skills in cybersecurity. I am excited to embark on new projects and collaborate with fellow professionals in the industry. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Skills and Experiences 
+* 
+
+## Hobbies 
+* Learning new programming languages and frameworks
+* Building iOS apps
+* Tinkering with cars and attending car meets
+* Competitive online gaming
+* Hiking and Kayaking
+
+## Examples of Work  
+

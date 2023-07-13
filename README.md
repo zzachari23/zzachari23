@@ -6,7 +6,7 @@ Hello, I'm Zach!! I consider myself a passionate aspiring full-stack developer b
 
 ## Skills and Experiences 
 
-👨🏾‍💻  Java, C, Swift, SQL, R, Ruby, OCaml, MIPS Assembly, Rust, Python 
+👨🏾‍💻  Java, C, Swift, SQL, R, Ruby, OCaml, MIPS Assembly, Rust, Python, OCaml 
 
 💼  Information Technology Intern @ Naval Sea Systems Command (NAVSEA)
 

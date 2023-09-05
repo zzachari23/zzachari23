@@ -18,7 +18,11 @@ Hello, I'm Zach!! I consider myself a passionate aspiring full-stack developer b
 * Hiking and Kayaking
 
 ## Examples of Work  
-<img src="https://github.com/zzachari23/zzachari23/blob/main/NutriFit.gif" width = "256" /> <img src="https://github.com/zzachari23/zzachari23/blob/main/Tableau.png" width = "256" /> 
+
+<p float="left">
+  <img src="https://github.com/zzachari23/zzachari23/blob/main/NutriFit.gif" width="256" />
+  <img src="https://github.com/zzachari23/zzachari23/blob/main/Tableau.png" width="256" /> 
+</p>
 
 
 link 

@@ -21,7 +21,7 @@ Hello, I'm Zach!! I consider myself a passionate aspiring full-stack developer b
 
 <p float="left">
   <img src="https://github.com/zzachari23/zzachari23/blob/main/NutriFit.gif" width="300" height = "250"/>
-   <img height="350" hspace="20"/> 
+   <img height="350" hspace="30"/> 
   <img src="https://github.com/zzachari23/zzachari23/blob/main/Tableau.gif" width="300" height = "250"/>
 </p>
 <pre> NutriFit iOS App                              Data Visualization via Tableau     </pre>

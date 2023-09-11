@@ -6,7 +6,7 @@ Hello, I'm Zach!! I consider myself a passionate aspiring full-stack developer b
 
 ## Skills and Experiences 
 
-👨🏾‍💻  Python, Java, C, Swift, SQL, R, Ruby, OCaml, MIPS Assembly, Rust, OCaml 
+👨🏾‍💻  Python, Java, C, Swift, SQL, R, Ruby, Javascript, PHP, HTML, CSS, OCaml, MIPS Assembly, Rust, OCaml 
 
 🛠️ Tableau, Figma
 
